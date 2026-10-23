@@ -18,6 +18,7 @@ In compliance with root store policies (Mozilla, Microsoft, Apple) and internati
 
 ## 📂 Repository Layout
 
+repository/
 ├── README.md                      # Root index, OID directory, and contact information
 ├── CONTRIBUTING.md                # Internal policy review & publication workflow guidelines
 │
